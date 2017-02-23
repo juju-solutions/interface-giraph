@@ -1,0 +1,4 @@
+name: giraph
+summary: Interface of Apache Giraph
+version: 1
+maintainer: "Juju Big Data <bigdata@lists.ubuntu.com>"
